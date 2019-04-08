@@ -1,9 +1,11 @@
 ---
 layout: post
-title: First Blog Post!
+title: My Journey to Self-Taught Data Scientist
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+*I became a Data Scientist by quitting my job and competing in Kaggle competitions.*
+
+This is my Kaggle profile. And yes, that’s a picture of me holding a catfish!
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
