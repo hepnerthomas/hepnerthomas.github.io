@@ -49,3 +49,4 @@ I don’t think there is a perfect way to become a Data Scientist, and not every
 *   **Follow Data Scientists on Twitter.** [Jeremy Howard](https://twitter.com/jeremyphoward) is my personal favorite. He is one of the top Data Scientists in the world, and has a [very inclusive mindset which I find honorable](http://www.fast.ai/2016/10/08/teaching-philosophy/).
 
 _Note: This story was originally published on Quora.com before it was irrevocably censored for containing a meme image of a dog after a long day’s work._
+
