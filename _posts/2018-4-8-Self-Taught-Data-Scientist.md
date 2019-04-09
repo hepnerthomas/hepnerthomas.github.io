@@ -1,8 +1,9 @@
-* * *
 ---
 layout: post
 title: My Journey to Self-Taught Data Scientist
 ---
+
+* * *
 
 [![Go to the profile of Thomas Hepner](https://cdn-images-1.medium.com/fit/c/100/100/1*j8eRfixxlUdnU2MzllSQYQ.png)](https://medium.com/@hepner.thomas?source=post_header_lockup)[Thomas Hepner](https://medium.com/@hepner.thomas)<span class="followState js-followState" data-user-id="73bbc7d140c7"><button class="button button--smallest u-noUserSelect button--withChrome u-baseColor--buttonNormal button--withHover button--unblock js-unblockButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-block-user" data-requires-token="true" data-redirect="https://medium.com/@hepner.thomas/my-journey-to-self-taught-data-scientist-ef014a44c704" data-action-source="post_header_lockup"><span class="button-label  button-defaultState">Blocked</span><span class="button-label button-hoverState">Unblock</span></button><button class="button button--primary button--smallest button--dark u-noUserSelect button--withChrome u-accentColor--buttonDark button--follow js-followButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-subscribe-user" data-requires-token="true" data-redirect="https://medium.com/_/subscribe/user/73bbc7d140c7" data-action-source="post_header_lockup-73bbc7d140c7-------------------------follow_byline"><span class="button-label  button-defaultState js-buttonLabel">Follow</span><span class="button-label button-activeState">Following</span></button></span><time datetime="2018-01-14T00:24:49.621Z">Jan 13, 2018</time><span class="middotDivider u-fontSize12"></span><span class="readingTime" title="5 min read"></span><span class="u-paddingLeft4"><span class="svgIcon svgIcon--star svgIcon--15px"></span></span>
 
