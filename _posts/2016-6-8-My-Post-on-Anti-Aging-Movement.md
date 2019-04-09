@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Transhumanist Movement
+---
+
 * * *
 
 **Aging will be seen as no more inevitable than teenage pregnancy is today.** Within 100 years, and likely far sooner, aging will cease to exist.
