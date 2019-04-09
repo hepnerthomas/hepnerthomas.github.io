@@ -13,6 +13,8 @@ And you might be thinking to yourself, “That’s impossible! That cannot possi
 
 It is likely that in the not too distant future, perhaps within the *next 10 to 15 years, *our expected lifespans will **double**. This technology may even already exist today in the form of a widely prescribed diabetes drug called **Metformin;** it was approved for use in the United States by the FDA in 1995.
 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
 Metformin has already been proven to extend the lifespan of mice by [**40 percent**](http://www.telegraph.co.uk/science/2016/03/12/worlds-first-anti-ageing-drug-could-see-humans-live-to-120/). A study by researchers at Cardiff University found that patients diagnosed with diabetes who were prescribed Metformin lived longer than those without diabetes, even though diabetes has been shown to [reduce lifespan by 8 years!](http://www.telegraph.co.uk/news/health/news/11019987/10-pence-a-day-drug-could-help-millions-live-longer.html) In December 2015, [the FDA approved human trials for the study of Metformin as an anti-aging drug](http://www.prnewswire.com/news-releases/anti-aging-human-study-on-metformin-wins-fda-approval-300193724.html), unlocking the potential for humans alive today to live for over 120 years.
 
 Scientists are beginning to understand the underlying biological processes that cause aging in living organisms, and what can be done to stop, and potentially even reverse aging. Cynthia Kenyon, a Harvard biologist, was able to isolate a specific gene regulating aging in [C. elegans](https://en.wikipedia.org/wiki/Caenorhabditis_elegans), a roundworm with an average lifespan of 30 days.
