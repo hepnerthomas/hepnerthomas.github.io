@@ -1,0 +1,41 @@
+@import './font-style.css';
+@import './header-style.css';
+@import './container-style.css';
+@import './footer-style.css';
+
+.blog-post {
+    grid-area: main;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.blog-post h1 {
+    text-align: center;
+}
+
+/* Small and Medium Screens */
+@media (max-width: 1000px) {
+    .metadata {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+        flex-direction: row;
+        font-size: 200%;
+    }
+}
+
+/* Large Screens */
+@media (min-width: 1001px) {
+    .metadata {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        align-items: center;
+        flex-direction: row;
+        font-size: 140%;
+    }
+}
+

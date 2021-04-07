@@ -1,0 +1,35 @@
+@import './font-style.css';
+@import './header-style.css';
+@import './container-style.css';
+@import './footer-style.css';
+
+.subscribe {
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.form-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 0px;
+    height: 1fr;
+    margin: 10px;
+    padding: 10px;
+    border-bottom: 2px solid grey;
+}
+
+.text-box {
+    font-size: 1.3em;
+    margin: 5px;
+    padding: 10px 10px;
+}
+
+#sign-up {
+    background-color: black;
+    color: white;
+    font-size: 1.3em;
+    margin: 5px;
+    padding: 10px;
+}

@@ -1,0 +1,10 @@
+.footer {
+    grid-area: ft; 
+    background: #DCDCDC; 
+    padding: 20px;  
+    text-align: left;
+}
+
+.footer-section {
+    font-weight: bold;
+}
